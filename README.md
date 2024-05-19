@@ -1,7 +1,7 @@
-I'm gradually moving to
+My public repositories have been moved to
 
+* Codeberg.org [@grauwoelfchen](https://codeberg.org/grauwoelfchen)
 * Sourcehut [~grauwoelchen](https://git.sr.ht/~grauwoelfchen/)
-* Codeberg.org [@grauwoelfchen](https://codeberg.org/grauwoelfchen) + Woodpecker CI
 
 --
 
